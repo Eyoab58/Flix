@@ -22,4 +22,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/Llm87P2VG5.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Very nice intro introduction to swift. The most difficult part was installing the pod file. However, even then it was not that difficult. 
